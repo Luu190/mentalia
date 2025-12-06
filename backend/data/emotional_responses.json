@@ -1,0 +1,77 @@
+{
+"neutral": [
+"Entiendo cómo te sientes.",
+"Estoy aquí para escucharte.",
+"Lo que estás viviendo es importante.",
+"Gracias por compartir conmigo cómo te estás sintiendo.",
+"Sé que esto es difícil y que tu reacción es válida pero no estás sol@.",
+
+"💜 Gracias por contarme cómo te sientes. Estoy aquí para escucharte sin juicios.",
+"💭 A veces no sabemos muy bien cómo nos sentimos, y eso también está bien. Cuéntame un poco más.",
+"🌷 Estoy aquí contigo. Puedes hablar con total libertad, este es un espacio seguro.",
+"Te leo con atención 💜. ¿Cómo describirías lo que estás sintiendo en este momento?",
+"Gracias por confiar en mí 💬. Todo lo que sientas es válido."
+],
+
+"tristeza": [
+"Entiendo cómo te sientes.",
+"Estoy aquí para escucharte.",
+"Lo que estás viviendo es importante.",
+"Gracias por compartir conmigo cómo te estás sintiendo.",
+"Sé que esto es difícil y que tu reacción es válida pero no estás sol@.",
+
+"💜 Siento que estás pasando por un momento pesado. No estás sol@, aquí estoy contigo.",
+"😢 Tu tristeza es válida. No necesitas ocultarla. Estoy aquí contigo, sin juicios.",
+"🌧️ Cuando todo pesa, hablar puede aliviar un poco. Te escucho.",
+"💭 Está bien sentir tristeza, incluso cuando parece que nadie lo entiende. Yo te escucho.",
+"💜 Si quieres, puedo acompañarte a ver qué podrías hacer para sentirte un poco más tranquil@."
+],
+
+"ansiedad": [
+"🌬️ Te escucho. La mente a veces corre, pero tú puedes ir a tu propio ritmo.",
+"💜 Notar la ansiedad ya es un paso enorme. Si quieres, puedo compartirte una técnica para calmarla.",
+"🌱 La ansiedad no te define. Mereces sentirte en calma, poco a poco lo lograrás.",
+"💭 Sé que esa sensación puede ser muy intensa, pero no estás sol@. Respira conmigo un momento.",
+"🌿 Si te parece, podemos hacer juntos un pequeño ejercicio de respiración 4-2-6 para bajar la tensión."
+],
+
+"estrés": [
+"😮‍💨 El estrés agota mucho. Darte una pausa pequeña también cuenta.",
+"🌿 Estás haciendo lo mejor que puedes. Paso a paso está bien.",
+"💜 Parece que llevas mucho encima. No tienes que hacerlo todo hoy.",
+"🌱 Tal vez podrías intentar escribir tres cosas pequeñas que sí lograste hoy. También cuenta.",
+"💭 Estoy aquí para acompañarte mientras sueltas un poco de ese peso."
+],
+
+"miedo": [
+"💭 Está bien sentir incertidumbre. Estoy aquí para acompañarte en ese proceso.",
+"💜 No estás sol@. Podemos hablar de lo que te preocupa, sin prisa.",
+"🌧️ El miedo no te define. A veces, hablar de eso lo hace más pequeño.",
+"😔 Sentir miedo es humano. Si quieres, puedo ayudarte a respirar para calmar un poco el cuerpo.",
+"💬 Cuéntame, ¿hay algo específico que te preocupa ahora mismo?"
+],
+
+"enojo": [
+"😤 Entiendo que te sientas así. Es válido enojarse cuando algo duele o no sale como esperas.",
+"💜 A veces el enojo nos protege del dolor. Si quieres, podemos hablar de lo que lo causó.",
+"🔥 Está bien soltar lo que llevas dentro. Este espacio es para eso.",
+"💭 Puedo sentir que algo te frustra. Estoy aquí para escucharte sin juzgarte.",
+"😌 Tomarte un momento para respirar o escribir lo que te molesta puede ayudarte a liberar tensión."
+],
+
+"crisis": [
+"⚠️ Lamento mucho que te sientas así. No estás sol@ 💛. Si estás en peligro, contacta la Línea 106 (Colombia) o acude al servicio de urgencias más cercano.",
+"💛 Estás viviendo algo muy difícil, pero no estás sol@. Por favor, busca ayuda inmediata: Línea 106 o 141 (si eres menor de edad). ¿Quieres que te comparta recursos?",
+"⚠️ Si sientes que no puedes más, por favor contacta con alguien ahora mismo. No tienes que enfrentar esto sol@.",
+"💛 Es un momento muy delicado. Te escucho con respeto y sin juicios, pero tu seguridad es lo más importante. Llama al 106 o busca ayuda presencial.",
+"🕊️ A veces lo que parece el final puede ser solo una pausa. No estás sol@, hay personas que pueden ayudarte ahora mismo. Línea 106 💛."
+],
+
+"greetings": [
+"💜 ¡Hola! Qué gusto verte por aquí. Este es tu espacio seguro. ¿Cómo te sientes hoy?",
+"🌻 ¡Hola! Estoy aquí para ti. ¿Qué te gustaría contarme?",
+"💬 ¡Hola! Gracias por venir. Cuéntame, ¿cómo te encuentras en este momento?",
+"🤗 ¡Hola! Me alegra verte por aquí. Estoy aquí para escucharte sin juicios.",
+"💜 ¡Hola! Cuéntame cómo te sientes en este momento, te escucho."
+]
+}

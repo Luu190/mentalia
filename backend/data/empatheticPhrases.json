@@ -1,0 +1,76 @@
+{
+  "base": [
+    "Entiendo como te sientes.",
+    "Entiendo cómo te sientes.",
+    "Estoy aquí para escucharte.",
+    "Lo que estás viviendo es importante.",
+    "Gracias por compartir conmigo como te estás sintiendo.",
+    "Gracias por compartir conmigo cómo te estás sintiendo.",
+    "Sé que esto es dificil y que tu reacion es valida pero no estas sol@.",
+    "Sé que esto es difícil y que tu reacción es válida, pero no estás sol@.",
+    "Lo que sientes tiene sentido con lo que has vivido.",
+    "No estás exagerando, tus emociones son válidas.",
+    "Está bien no estar bien todo el tiempo.",
+    "No tienes que poder con todo tú sol@.",
+    "Gracias por confiar en mí con algo tan personal.",
+    "Me alegra que puedas poner en palabras cómo te sientes.",
+    "Lo que sientes importa y merece ser escuchado.",
+    "Llevar todo esto por dentro debe ser muy cansado.",
+    "Es comprensible que te sientas así después de todo lo que has pasado.",
+    "Tu dolor es real y merece cuidado.",
+    "Te estás esforzando mucho, incluso si no siempre se nota.",
+    "No eres una carga por sentirte así.",
+    "Tu historia y tus emociones importan más de lo que crees.",
+    "Lo estás haciendo lo mejor que puedes con lo que tienes ahora.",
+    "Está bien pedir ayuda cuando algo duele tanto.",
+    "No hay nada malo en sentir lo que sientes.",
+    "Te acompaño en esto, paso a paso.",
+    "No tienes que tener todas las respuestas hoy.",
+    "Aunque ahora todo se vea oscuro, mereces encontrar un poco de calma.",
+    "Has pasado por mucho, es normal que te sientas así.",
+    "Me gustaría que pudieras tratarte con la misma comprensión con la que tratas a otros.",
+    "Estoy aquí, sin juicios, para leerte y acompañarte.",
+    "Gracias por abrir tu corazón, eso demuestra mucha valentía.",
+    "Lo que sientes no te define, pero sí merece atención y cuidado.",
+    "Tus emociones no son un problema, son una señal de que algo te importa.",
+    "No tienes que minimizar lo que sientes, es importante.",
+    "Si estás aquí, es porque estás buscando una forma de estar mejor, y eso ya es un gran paso.",
+    "Me importa cómo te sientes en este momento.",
+    "Que te sientas así no significa que estés fallando, sino que estás viviendo algo difícil.",
+    "Aunque ahora se sienta pesado, no estás sol@ en esto."
+  ],
+  "tristeza": [
+    "Lamento que te sientas así, suena muy pesado de llevar.",
+    "Cuando la tristeza aparece, es porque algo te ha dolido de verdad.",
+    "Puedes llorar si lo necesitas, llorar también es una forma de liberar.",
+    "Tu tristeza merece un espacio seguro para existir, aquí lo tienes.",
+    "Aunque ahora te sientas en el fondo, no significa que vayas a quedarte allí para siempre.",
+    "A veces, sentirse triste es una forma de tu mente de pedirte una pausa."
+  ],
+  "ansiedad": [
+    "La ansiedad puede ser muy intensa, pero no define quién eres.",
+    "Lo que sientes en el cuerpo es real, y a la vez va a ir bajando poco a poco.",
+    "Respirar despacio puede ayudarte a darle un pequeño descanso a tu mente.",
+    "Estar ansios@ no significa que seas débil, significa que has estado cargando mucho.",
+    "Podemos ir paso a paso, no tienes que resolverlo todo de una vez."
+  ],
+  "estrés": [
+    "Suena como si hubieras estado bajo mucha presión últimamente.",
+    "Es normal que tu cuerpo y tu mente se cansen cuando hay tanto encima.",
+    "No tienes que ser perfect@ para merecer descanso.",
+    "A veces parar un momento también es avanzar.",
+    "Es válido sentir que ya no puedes con tantas cosas al tiempo."
+  ],
+  "miedo": [
+    "Tener miedo no te hace menos fuerte, te hace human@.",
+    "Es comprensible que estés asustad@, dado todo lo que estás viviendo.",
+    "No estás sol@ con esos temores, aquí puedo leerte y acompañarte.",
+    "Está bien admitir que algo te da miedo, eso también es un acto de valentía."
+  ],
+  "enojo": [
+    "Es válido que sientas enojo, seguramente has aguantado mucho.",
+    "La rabia muchas veces aparece cuando algo importante para ti se ha visto afectado.",
+    "No eres malas personas por sentir enojo, es una emoción como cualquier otra.",
+    "Podemos tratar de entender qué hay detrás de ese enojo, si quieres."
+  ]
+}

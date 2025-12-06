@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "server.js"],
+  "ignore": ["*.env", "*.env.local"],
+  "ext": "js,json"
+}
