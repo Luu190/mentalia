@@ -82,8 +82,8 @@ setInterval(cleanInactiveSessions, 60 * 1000);
 // ============================
 // HEALTH CHECK (OBLIGATORIO EN RENDER)
 // ============================
-app.get("/health", (req, res) => {
-  res.status(200).json({ status: "OK" });
+app.get("/healthz", (req, res) => {
+  res.status(200).json({ status: "ok" });
 });
 
 // ============================
