@@ -21,7 +21,6 @@ import psychologistRoutes from "./routes/psychologist.js";
 import contentPublicRoutes from "./routes/contentPublic.js";
 
 import { cleanInactiveSessions } from "./utils/sessionCleaner.js";
-// import { checkDailyCriticalAlerts } from "./controllers/alertController.js";
 
 // ============================
 // PATH CONFIG
@@ -32,7 +31,7 @@ const __dirname = path.dirname(__filename);
 const app = express();
 
 // ============================
-// CORS CONFIG (Render + Localhost)
+// CORS CONFIG
 // ============================
 app.use(
   cors({
@@ -75,15 +74,20 @@ app.use("/api/content", contentPublicRoutes);
 app.use("/api/psychologist", psychologistRoutes);
 
 // ============================
-// CLEANER
+// SESSION CLEANER
 // ============================
 setInterval(cleanInactiveSessions, 60 * 1000);
 
 // ============================
-// HEALTH CHECK (OBLIGATORIO EN RENDER)
+// HEALTH CHECK (RENDER NECESITA /healthz )
 // ============================
 app.get("/healthz", (req, res) => {
-  res.status(200).json({ status: "ok" });
+  res.status(200).json({ status: "OK" });
+});
+
+// También dejamos /health por si lo necesitas
+app.get("/health", (req, res) => {
+  res.status(200).json({ status: "OK" });
 });
 
 // ============================
